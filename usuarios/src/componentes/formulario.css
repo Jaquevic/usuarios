@@ -1,0 +1,9 @@
+.paiForm{
+    display: flex;
+    flex-direction: column;
+}
+.alerta{
+    position: fixed;
+    top: 0;
+    margin-top: 25px;
+}
